@@ -1,6 +1,6 @@
 				**AUTOLIB CAR SHARE SERVICE**
 
-		**OVERVIEW**
+**OVERVIEW**
 
 This is an analysis of Autolib's electric car sharing service the was inogurated in Paris by the Mayor together with Autolib Company.
 The project was initiated to help ease traffic in the city and was later adopted accross various parts of France.
